@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+out/
+# Loom / Minecraft dev
+run/
+remappedSrc/
+*.log
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+# OS
+.DS_Store
+Thumbs.db
